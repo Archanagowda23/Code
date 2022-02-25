@@ -3,5 +3,7 @@ public class t2 {
         System.out.println("test2");
         
           System.out.println("test36");
-    }
+        
+        
+    } System.out.println("test36");
 }
